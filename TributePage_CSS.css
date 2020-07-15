@@ -1,0 +1,299 @@
+h1{
+  padding-top:35px;
+  font-size:2.8rem;
+  line-height:1.2;
+}
+
+h3{
+  font-weight:110;
+}
+
+h4{
+  font-weight:170;
+  color:black;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-size:1.3rem;
+  text-align:center;
+}
+
+body{
+  color:#333;
+  font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  background-color:white;
+
+}
+
+#main{
+  text-align:center;
+  background-color:#eee;
+  margin-bottom:15px;
+}
+
+.mainTitle{
+  background-color:light-gray;
+  text-align:center;
+}
+
+#img-div{
+  display:flex;
+  flex-direction:column;
+  background-color:white;
+  margin-left:15.5px;
+  margin-right:15.5px;
+}
+
+#image{
+  max-width:96%;
+  height:auto;
+  margin-left:50px;
+  margin-right:50px;
+  align-self:center;
+  background-color:white;
+}
+
+#img-caption{
+  padding-top:15px;
+  padding-bottom:20px;
+  padding-left:20px;
+  padding-right:20px;
+  background-color:white;
+}
+
+#parentContainer{
+  margin-top:45px;
+  display:flex;
+  flex-direction:column;
+  margin-left:3px;
+  margin-right:3px;
+  flex:wrap;
+  font-weight:300;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+}
+
+@media(max-width:250px){
+  ul{
+     margin-left:1px;
+     margin-right:1px;
+    
+  }
+}
+
+@media(min-width:600px){
+  ul{
+     margin-left:70px;
+    margin-right:70px;
+  }
+}
+
+@media(min-width:700px){
+  ul{
+    margin-left:120px;
+    margin-right:120px;
+  }
+}
+
+@media(min-width:720px){
+  ul{
+    margin-left:135px;
+    margin-right:135px;
+  }
+}
+
+@media(min-width:760px){
+  ul{
+    margin-left:140px;
+    margin-right:140px;
+  }
+}
+
+@media(min-width:780px){
+  ul{
+    margin-left:160px;
+    margin-right:160px;
+  }
+}
+
+@media(min-width:800px){
+  ul{
+    margin-left:170px;
+    margin-right:170px;
+  }
+}
+
+@media(min-width:850px){
+  ul{
+    margin-left:190px;
+    margin-right:190px;
+  }
+}
+
+@media(min-width:900px){
+  ul{
+    margin-left:260px;
+    margin-right:260px;
+  }
+}
+
+@media(min-width:1000px){
+  ul{
+    margin-left:280px;
+    margin-right:280px;
+  }
+}
+
+@media(min-width:1080px){
+  ul{
+    margin-left:300px;
+    margin-right:300px;
+  }
+}
+@media(min-width:1100px){
+  ul{
+    margin-left:320px;
+    margin-right:320px;
+  }
+}
+
+@media(min-width:1200px){
+  ul{
+    margin-left:340px;
+    margin-right:340px;
+  }
+}
+
+@media(min-width:1300px){
+  ul{
+    margin-left:365px;
+    margin-right:365px;
+  }
+}
+
+@media(min-width:1400px){
+  ul{
+    margin-left:385px;
+    margin-right:385px;
+  }
+}
+
+@media(min-width:1500px){
+  ul{
+    margin-left:400px;
+    margin-right:400px;
+  }
+}
+@media(min-width:1530px){
+  ul{
+    margin-left:490px;
+    margin-right:490px;
+  }
+}
+
+@media(min-width:1600px){
+  ul{
+    margin-left:550px;
+    margin-right:550px;
+  }
+}
+
+@media(min-width:1650px){
+  ul{
+    margin-left:550px;
+    margin-right:550px;
+  }
+}
+
+@media(min-width:1700px){
+  ul{
+    margin-left:600px;
+    margin-right:600px;
+  }
+}
+
+@media(min-width:1750px){
+  ul{
+    margin-left:640px;
+    margin-right:640px;
+  }
+}
+
+@media(min-width:1800px){
+  ul{
+    margin-left:680px;
+    margin-right:680px;
+  }
+}
+
+@media(min-width:1850px){
+  ul{
+    margin-left:710px;
+    margin-right:710px;
+  }
+}
+
+@media(min-width:1900px){
+  ul{
+    margin-left:740px;
+    margin-right:740px;
+  }
+}
+
+@media(min-width:1950px){
+  ul{
+    margin-left:790px;
+    margin-right:790px;
+  }
+}
+
+@media(min-width:2000px){
+  ul{
+    margin-left:840px;
+    margin-right:840px;
+  }
+}
+
+@media(min-width:2050px){
+  ul{
+    margin-left:890px;
+    margin-right:890px;
+  }
+}
+
+@media(min-width:2100px){
+  ul{
+    margin-left:940px;
+    margin-right:940px;
+  }
+}
+
+li{
+  text-align:left;
+  margin-bottom:23px;
+}
+
+#foot{
+  margin-top:35px;
+  padding-left:500px;
+  padding-right:480px;
+  text-align:left;
+}
+
+#signature{
+ text-align:left;
+}
+
+#tribute-info{
+  padding-top:37px;
+  padding-bottom:25px;
+}
+
+#tribute-link{
+  color:#477CA7;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+}
+
+
+
+
+
+
+
